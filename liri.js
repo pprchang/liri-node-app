@@ -48,7 +48,7 @@ function concertThis(band) {
               data.name
             } \n Event Location: ${data.city}, ${
               data.country
-            } \n Event Date & Time: ${moment(response.data[0].datetime).format(
+            } \n Event Date: ${moment(response.data[0].datetime).format(
               'MM-DD-YYYY'
             )} \n ----------------------------------`
           )
