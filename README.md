@@ -31,19 +31,21 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
   -DotEnv
 6. Create a .env file in the same directory as the rest of the files. 
 7. In the .env file add the following items:
-  - '# Spotify API keys'
-  - 'SPOTIFY_ID=your-spotify-ID-here'
-  - 'SPOTIFY_SECRET=your-spotify-secret-here'
+    - '# Spotify API keys'
+    - 'SPOTIFY_ID=your-spotify-ID-here'
+    - 'SPOTIFY_SECRET=your-spotify-secret-here'
   
 ## *Avaiblabe Commands* 
 
 #### concert-this <artist/band name here> 
 This will show the following information about the song in your terminal/bash window:
+```
      - Artist(s)
      - The song's name
      - A preview link of the song from Spotify
      - The album that the song is from
  - If no song is provided then your program will default to "The Sign" by Ace of Base.
+ ```
 
 #### spotify-this-song "<song name here>"
 This will show the following information about the song in your terminal/bash window
