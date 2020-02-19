@@ -43,7 +43,7 @@ This will show the following information about the artist/band in your terminal/
      - Venue location
      - Date of the Event ("MM/DD/YYYY")
  ```
-![Image of Yaktocat](https://github.com/pprchang/liri-node-app/blob/master/img/concert-this.PNG)
+![Image of concert-this](https://github.com/pprchang/liri-node-app/blob/master/img/concert-this.PNG)
 
 #### spotify-this-song '\<song name here>'
 This will show the following information about the song in your terminal/bash window:
@@ -54,6 +54,7 @@ This will show the following information about the song in your terminal/bash wi
      - The album that the song is from
   - If no song is provided then your program will default to "The Sign" by Ace of Base.
  ```
+ ![Image of spotify-this](https://github.com/pprchang/liri-node-app/blob/master/img/spotify.PNG)
  
 #### movie-this '\<movie name here>'
 This will output the following information to your terminal/bash window:
@@ -68,11 +69,13 @@ This will output the following information to your terminal/bash window:
      - Actors in the movie.
   - If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody'.
 ```
+![Image of movie-this](https://github.com/pprchang/liri-node-app/blob/master/img/movie.PNG)
   
 #### do-what-it-says 
 ```
    - Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 ```
+![Image of do-what-it-says](https://github.com/pprchang/liri-node-app/blob/master/img/dowhatitsays.PNG)
 
 ## *Contributing* 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  Thank you for your corporation.
