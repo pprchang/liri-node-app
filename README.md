@@ -21,15 +21,17 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ## *Setup*
 1. Visit Spotify API website (https://developer.spotify.com/my-applications/#!/) and create a account.
-2.  Once logged in, navigate to (https://developer.spotify.com/my-applications/#!/applications/create) to register a new application to be used with the Spotify API.
-3. On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package (https://www.npmjs.com/package/node-spotify-api).
+2.  Once logged in, navigate to (https://developer.spotify.com/my-applications/#!/applications/create) to register a new application.
+3. On the next screen, scroll down to where you see your client id and client secret and copy these values down somewhere. You'll need them for the Spotify API and the node-spotify-api package.
 4. Clone the repository
-5. Run npm install and install the below modules:
+5. Run npm install and install the below packages:
+```
   -Node-Spotify-API
   -Axios 
   -Moment
   -DotEnv
-6. Create a .env file in the same directory as the rest of the files. 
+ ```
+6. Create an .env file in the same directory as the rest of the files. 
 7. In the .env file add the following items:
     - '# Spotify API keys'
     - 'SPOTIFY_ID=your-spotify-ID-here'
@@ -38,13 +40,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## *Avaiblabe Commands* 
 
 #### concert-this <artist/band name here> 
-This will show the following information about the song in your terminal/bash window:
+This will show the following information about the artist/band in your terminal/bash window:
 ```
-     - Artist(s)
-     - The song's name
-     - A preview link of the song from Spotify
-     - The album that the song is from
- - If no song is provided then your program will default to "The Sign" by Ace of Base.
+     - Name of the venue
+     - Venue location
+     - Date of the Event ("MM/DD/YYYY")
  ```
 
 #### spotify-this-song "<song name here>"
