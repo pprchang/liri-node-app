@@ -6,12 +6,12 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ## *Built With*
 
-#### Code Editor: 
+#### Code Editor : 
 - Visual Stuido Code (https://code.visualstudio.com/)
 
-#### Javascript:
+#### Javascript :
 
-#### Node.js (https://nodejs.org/en/):
+#### Node.js (https://nodejs.org/en/) :
 - Node-Spotify-API (https://www.npmjs.com/package/node-spotify-api)
 - Axios (https://www.npmjs.com/package/axios)
 - OMDB API (http://www.omdbapi.com)
