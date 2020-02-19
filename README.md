@@ -43,7 +43,7 @@ This will show the following information about the artist/band in your terminal/
      - Venue location
      - Date of the Event ("MM/DD/YYYY")
  ```
- !(https://github.com/pprchang/liri-node-app/blob/master/img/concert-this.PNG?raw=true)
+![Image of Yaktocat](https://github.com/pprchang/liri-node-app/blob/master/img/concert-this.PNG)
 
 #### spotify-this-song '\<song name here>'
 This will show the following information about the song in your terminal/bash window:
