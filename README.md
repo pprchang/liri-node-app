@@ -1,9 +1,6 @@
 # LIRI (Language Interpretation and Recognition Interface)
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-## *Link to Live Page*
-(https://pprchang.github.io/unit-4-game/)
-
 ## *Built With*
 
 #### Code Editor : 
@@ -47,7 +44,7 @@ This will show the following information about the artist/band in your terminal/
      - Date of the Event ("MM/DD/YYYY")
  ```
 
-#### spotify-this-song "<song name here>"
+#### spotify-this-song '\<song name here>'
 This will show the following information about the song in your terminal/bash window:
 ``` 
      - Artist(s)
@@ -57,7 +54,7 @@ This will show the following information about the song in your terminal/bash wi
   - If no song is provided then your program will default to "The Sign" by Ace of Base.
  ```
  
-#### movie-this '<movie name here>'
+#### movie-this '\<movie name here>'
 This will output the following information to your terminal/bash window:
 ```
      - Title of the movie
