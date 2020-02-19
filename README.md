@@ -34,7 +34,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
     - 'SPOTIFY_ID=your-spotify-ID-here'
     - 'SPOTIFY_SECRET=your-spotify-secret-here'
   
-## *Avaiblabe Commands* 
+## *Available Commands* 
 
 #### concert-this <artist/band name here> 
 This will show the following information about the artist/band in your terminal/bash window:
