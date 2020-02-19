@@ -71,7 +71,7 @@ This will output the following information to your terminal/bash window:
 ```
 ![Image of movie-this](https://github.com/pprchang/liri-node-app/blob/master/img/movie.PNG)
   
-#### do-what-it-says 
+#### do-what-it-says
 ```
    - Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 ```
