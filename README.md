@@ -9,9 +9,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 #### Code Editor: 
 - Visual Stuido Code (https://code.visualstudio.com/)
 
-#### Javascript
+#### Javascript:
 
-#### Node.js (https://nodejs.org/en/)
+#### Node.js (https://nodejs.org/en/):
 - Node-Spotify-API (https://www.npmjs.com/package/node-spotify-api)
 - Axios (https://www.npmjs.com/package/axios)
 - OMDB API (http://www.omdbapi.com)
@@ -39,11 +39,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 #### concert-this <artist/band name here> 
 This will show the following information about the song in your terminal/bash window:
-     * Artist(s)
-     * The song's name
-     * A preview link of the song from Spotify
-     * The album that the song is from
- * If no song is provided then your program will default to "The Sign" by Ace of Base.
+     - Artist(s)
+     - The song's name
+     - A preview link of the song from Spotify
+     - The album that the song is from
+ - If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 #### spotify-this-song "<song name here>"
 This will show the following information about the song in your terminal/bash window
