@@ -22,7 +22,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## *Setup*
 1. Visit Spotify API website (https://developer.spotify.com/my-applications/#!/) and create a account.
 2.  Once logged in, navigate to (https://developer.spotify.com/my-applications/#!/applications/create) to register a new application to be used with the Spotify API.
-3.On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package (https://www.npmjs.com/package/node-spotify-api).
+3. On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package (https://www.npmjs.com/package/node-spotify-api).
 4. Clone the repository
 5. Run npm install and install the below modules:
   -Node-Spotify-API
